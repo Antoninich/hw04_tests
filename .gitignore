@@ -145,4 +145,5 @@ dmypy.json
 
 .mypy_cache
 
-yatube/static/
+static/
+venv_linux
